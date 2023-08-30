@@ -1,0 +1,63 @@
+{
+  "data":[
+       {
+       "Firstname":"madhu",
+       "Lastname": "pinninti",  
+       "Email":"madhublog64@gmail.com"
+    },
+   {
+      
+      "Firstname":"Mark",
+       "Lastname": "paul",  
+       "Email":"palu64@gmail.com"
+    },
+
+    {
+       "Firstname":"Ramu ",
+       "Lastname": "gopal",  
+       "Email":"Ramu gopal@gmail.com"
+    },
+    
+    {
+      "Firstname":" eswara",
+      "Lastname": "rao",  
+      "Email":"cakanksha80@gmail.com"
+   },
+
+{
+      "Firstname":"TEJA",
+      "Lastname": "COMPUTER",  
+      "Email":"teja123@gmail.com"
+   },
+
+{
+      "Firstname":"RAO",
+      "Lastname": "DAMAYANTHI",  
+      "Email":"RAO@gmail.com"
+   },
+
+   {
+      "Firstname":"deepu ",
+      "Lastname": "SAIRAMU",  
+      "Email":"DEEPU@gmail.com"
+   }
+    
+   ],
+   "application":[
+      {
+      "Firstname":"madhu",
+      "Lastname": "pinninti",  
+      "Email":"madhublog64@gmail.com"
+   },
+  {
+     
+     "Firstname":"Mark",
+      "Lastname": "paul",  
+      "Email":"palu64@gmail.com"
+   }
+  ]
+}
+
+
+
+
